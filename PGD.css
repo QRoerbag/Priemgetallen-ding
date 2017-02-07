@@ -1,0 +1,12 @@
+body{
+	background: red;
+}
+
+button.Knop{
+	width: 400px;
+	height: 200px;
+	font-size: 75px;
+	outline: none;
+	border: 5px solid black;
+	border-radius: 50%;
+}
